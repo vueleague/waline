@@ -99,7 +99,7 @@
     "vite-plugin-reiconify": "1.1.2",
     "vitest": "0.31.1"
   },
-  "packageManager": "pnpm@8.5.1",
+  "packageManager": "pnpm@8.6.9",
   "apidoc": {
     "title": "Waline API Documentation"
   },
